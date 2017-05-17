@@ -1,0 +1,10 @@
+C:\Users\Jayci\OneDrive\Documents\Visual Studio 2017\Projects\JaysSpace\JaysData\bin\Debug\JaysData.dll.config
+C:\Users\Jayci\OneDrive\Documents\Visual Studio 2017\Projects\JaysSpace\JaysData\bin\Debug\JaysData.dll
+C:\Users\Jayci\OneDrive\Documents\Visual Studio 2017\Projects\JaysSpace\JaysData\bin\Debug\JaysData.pdb
+C:\Users\Jayci\OneDrive\Documents\Visual Studio 2017\Projects\JaysSpace\JaysData\bin\Debug\EntityFramework.dll
+C:\Users\Jayci\OneDrive\Documents\Visual Studio 2017\Projects\JaysSpace\JaysData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jayci\OneDrive\Documents\Visual Studio 2017\Projects\JaysSpace\JaysData\bin\Debug\EntityFramework.xml
+C:\Users\Jayci\OneDrive\Documents\Visual Studio 2017\Projects\JaysSpace\JaysData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jayci\OneDrive\Documents\Visual Studio 2017\Projects\JaysSpace\JaysData\obj\Debug\JaysData.dll
+C:\Users\Jayci\OneDrive\Documents\Visual Studio 2017\Projects\JaysSpace\JaysData\obj\Debug\JaysData.pdb
+C:\Users\Jayci\onedrive\documents\visual studio 2017\Projects\JaysSpace\JaysData\obj\Debug\JaysData.csprojResolveAssemblyReference.cache

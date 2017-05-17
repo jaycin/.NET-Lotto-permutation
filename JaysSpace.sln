@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaysSpace", "JaysSpace\JaysSpace.csproj", "{6A9841E8-511B-40B4-BE1D-FF23288B2B64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaysSpace.Tests", "JaysSpace.Tests\JaysSpace.Tests.csproj", "{D72EA947-A1D6-4175-8CAF-2A9AAB7EB910}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaysData", "JaysData\JaysData.csproj", "{91C81848-EDC2-43E6-8330-64E57A21DE64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A9841E8-511B-40B4-BE1D-FF23288B2B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A9841E8-511B-40B4-BE1D-FF23288B2B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A9841E8-511B-40B4-BE1D-FF23288B2B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A9841E8-511B-40B4-BE1D-FF23288B2B64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D72EA947-A1D6-4175-8CAF-2A9AAB7EB910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D72EA947-A1D6-4175-8CAF-2A9AAB7EB910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D72EA947-A1D6-4175-8CAF-2A9AAB7EB910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D72EA947-A1D6-4175-8CAF-2A9AAB7EB910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91C81848-EDC2-43E6-8330-64E57A21DE64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91C81848-EDC2-43E6-8330-64E57A21DE64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91C81848-EDC2-43E6-8330-64E57A21DE64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91C81848-EDC2-43E6-8330-64E57A21DE64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\Jayci\OneDrive\Documents\Visual Studio 2017\Projects\JaysSpace\JaysData\bin\Release\JaysData.dll.config
+C:\Users\Jayci\OneDrive\Documents\Visual Studio 2017\Projects\JaysSpace\JaysData\bin\Release\JaysData.dll
+C:\Users\Jayci\OneDrive\Documents\Visual Studio 2017\Projects\JaysSpace\JaysData\bin\Release\JaysData.pdb
+C:\Users\Jayci\OneDrive\Documents\Visual Studio 2017\Projects\JaysSpace\JaysData\bin\Release\EntityFramework.dll
+C:\Users\Jayci\OneDrive\Documents\Visual Studio 2017\Projects\JaysSpace\JaysData\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Jayci\OneDrive\Documents\Visual Studio 2017\Projects\JaysSpace\JaysData\bin\Release\EntityFramework.xml
+C:\Users\Jayci\OneDrive\Documents\Visual Studio 2017\Projects\JaysSpace\JaysData\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Jayci\OneDrive\Documents\Visual Studio 2017\Projects\JaysSpace\JaysData\obj\Release\JaysData.Migrations.test.resources
+C:\Users\Jayci\OneDrive\Documents\Visual Studio 2017\Projects\JaysSpace\JaysData\obj\Release\JaysData.Migrations.test1.resources
+C:\Users\Jayci\OneDrive\Documents\Visual Studio 2017\Projects\JaysSpace\JaysData\obj\Release\JaysData.csproj.GenerateResource.Cache
+C:\Users\Jayci\OneDrive\Documents\Visual Studio 2017\Projects\JaysSpace\JaysData\obj\Release\JaysData.dll
+C:\Users\Jayci\OneDrive\Documents\Visual Studio 2017\Projects\JaysSpace\JaysData\obj\Release\JaysData.pdb
+C:\Users\Jayci\onedrive\documents\visual studio 2017\Projects\JaysSpace\JaysData\obj\Release\JaysData.csprojResolveAssemblyReference.cache
